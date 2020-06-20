@@ -1,4 +1,4 @@
-[submodule "pandas2"]
-	path = pandas2
+[submodule "pandas"]
+	path = pandas
 	url = https://gist.github.com/e4fb55d194401dda0ff078cb66f02842.git
 	branch = master
