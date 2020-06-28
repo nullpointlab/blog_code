@@ -2,3 +2,7 @@
 	path = pandas
 	url = git@gist.github.com:e4fb55d194401dda0ff078cb66f02842.git
 	branch = master
+[submodule "presto"]
+	path = presto
+	url = git@gist.github.com:2f6912419f02da397de96f3ef597881c.git
+	branch = master
