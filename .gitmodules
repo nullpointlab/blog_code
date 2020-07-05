@@ -22,3 +22,7 @@
 	path = unix
 	url = git@gist.github.com:4f9529fe9d0119b515d8531128eec5a4.git
 	branch = master
+[submodule "gas"]
+	path = gas
+	url = git@gist.github.com:4adcb0def17bae9d5784b19e7cbb0f71.git
+	branch = master
