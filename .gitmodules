@@ -6,3 +6,7 @@
 	path = presto
 	url = git@gist.github.com:2f6912419f02da397de96f3ef597881c.git
 	branch = master
+[submodule "docker"]
+	path = docker
+	url = git@gist.github.com:db66c3d6bdf06aba91c37e507e37b85e.git
+	branch = master
