@@ -26,3 +26,7 @@
 	path = unix
 	url = git@gist.github.com:4f9529fe9d0119b515d8531128eec5a4.git
 	branch = master
+[submodule "soql"]
+	path = soql
+	url = git@gist.github.com:d01b5576c06a74a80809a45e63e9e165.git
+	branch = master
