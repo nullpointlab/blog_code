@@ -30,3 +30,7 @@
 	path = soql
 	url = git@gist.github.com:d01b5576c06a74a80809a45e63e9e165.git
 	branch = master
+[submodule "redash"]
+	path = redash
+	url = git@gist.github.com:0d603a0b391b068fc92a45303eb606e9.git
+	branch = master
